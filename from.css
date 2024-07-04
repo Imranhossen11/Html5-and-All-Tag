@@ -1,0 +1,9 @@
+.submitbuttom{
+    background-color: rgb(172, 150, 150);
+    font: 100px;
+    color:white;
+    border: rgb(14, 12, 12) solid;
+    border-radius: 5px;
+    text-align: center;
+
+}
